@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Привет, я Сергей (undel)
 
-<!--
-**SergeyT-AI/SergeyT-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Промпт-инженер и специалист по автоматизации бизнеса с помощью ИИ.  
+Более 20 лет в ИТ-разработке и интеграциях.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Чем занимаюсь
+
+- Автоматизация бизнес-процессов с **n8n** и AI-инструментами
+- Интеграция систем и API (REST, SOAP, AQ, MQ, Kafka)
+- Ведение проектов от идеи до продакшена
+
+---
+
+### 🛠 Технический стек
+
+**Языки программирования**  
+`Python` `Java` `PL/SQL`
+
+**Базы данных**  
+`Oracle` `PostgreSQL`
+
+**Инструменты и API**  
+`n8n` `OpenAI` `ProxyAPI` `REST` `SOAP` `Kafka`
+
+---
+
+### 📫 Контакты
+
+- [Kwork](https://kwork.ru/user/undel)
+- [GitHub](https://github.com/undel) 
+
+---
+
+> *Открыт для сотрудничества по автоматизации и AI-интеграциям.*
