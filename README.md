@@ -31,7 +31,7 @@
 ### 📫 Контакты
 
 - [Kwork](https://kwork.ru/user/undel)
-- [Telegram](@TSV_31) 
+- [Telegram](https://t.me/TSV_31) 
 
 ---
 
